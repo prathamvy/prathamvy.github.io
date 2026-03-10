@@ -23,8 +23,3 @@ theme = 'archie'
   name = "Email"
   icon = "mail"
   url = "mailto:prathamyashwantepy@gmail.com"
-
-[[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 1
