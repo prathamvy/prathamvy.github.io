@@ -4,20 +4,19 @@ date: 2026-03-10
 draft: false
 ---
 
-MS CS Student • UC San Diego
 
-[Google Scholar](https://scholar.google.com/citations?user=l7KzSbgAAAAJ&hl=en) •
-[GitHub](https://github.com/prathamvy) •
 [Email](mailto:prathamyashwantepy@gmail.com) •
-[LinkedIn](https://linkedin.com/in/prathamyashwante)
+[LinkedIn](https://linkedin.com/in/prathamyashwante) •
+[Scholar](https://scholar.google.com/citations?user=l7KzSbgAAAAJ&hl=en) •
+[GitHub](https://github.com/prathamvy)
 
-Hi, My name is **Pratham** and I am a MS CS student at the **UCSD**. I work in the **Spatiotemporal ML Lab** and am advised by **Dr. Rose Yu**.
+Hi, My name is Pratham. I am an M.S. student in Computer Science at UC San Diego. I work in the Spatiotemporal ML Lab and am advised by [Prof. Rose Yu](https://roseyu.com/).
 
 ## Research
 
-My research interests include **multimodal learning**, **time series modeling**, and **interpretability in multimodal models**. I am especially interested in how models can reason across **text, vision, and numeric time series** data.
+My research interests include **multimodal learning**, **time series modeling**, and **interpretability in multimodal models**. I am especially interested in how models can align and reason across **text, vision, and numeric time series** data.
 
-Recently, I have worked on **time series captioning benchmarks**, **contrastive alignment across time series, vision, and language**, and **machine learning for health and biomechanical sensor data**. I am currently exploring how **time series data can be used as supervision to improve physical reasoning in multimodal models**.
+Recently, I have worked on **multimodal time series benchmarks**, **contrastive alignment across time series, vision, and language**, and **machine learning for biomechanical sensor data**. I am currently exploring how **time series data can be used as supervision to improve physical reasoning in multimodal models**.
 
 
 ## Publications and Preprints
@@ -68,6 +67,6 @@ GPA: 4.0/4.0
 B.E. in Computer Engineering, Jan 2021 – Jul 2024  
 GPA: 9.47/10
 
-## Service
+## Activities
 
 - Reviewer — CHIL 2026, AAAI 2025
