@@ -5,8 +5,7 @@ theme = 'archie'
 
 [params]
   mode = "toggle"
-  useCDN = false
-  subtitle = "MS CS Student at UC San Diego | Multimodal AI, Time Series, Representation Learning"
+  subtitle = "MS CS Student at UC San Diego"
 
 [[params.social]]
   name = "GitHub"
@@ -17,11 +16,6 @@ theme = 'archie'
   name = "LinkedIn"
   icon = "linkedin"
   url = "https://www.linkedin.com/in/YOUR-LINKEDIN"
-
-[[params.social]]
-  name = "Google Scholar"
-  icon = "book"
-  url = "https://scholar.google.com/citations?user=YOURID"
 
 [[params.social]]
   name = "Email"
