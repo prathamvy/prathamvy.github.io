@@ -3,9 +3,6 @@ languageCode = 'en-us'
 title = 'Pratham Yashwante'
 theme = 'archie'
 
-[params]
-  mode = "toggle"
-  subtitle = "MS CS Student at UC San Diego"
 
 [[params.social]]
   name = "GitHub"
@@ -31,8 +28,3 @@ theme = 'archie'
   name = "Home"
   url = "/"
   weight = 1
-
-[[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 2

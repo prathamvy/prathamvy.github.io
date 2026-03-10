@@ -1,0 +1,13 @@
+{{ define "main" }}
+<main class="main">
+  <div class="site-description">
+    {{ if .Site.Params.subtitle }}
+    <p>{{ .Site.Params.subtitle | markdownify }}</p>
+    {{ end }}
+  </div>
+
+  <article class="post-content">
+    {{ .Content }}
+  </article>
+</main>
+{{ end }}
