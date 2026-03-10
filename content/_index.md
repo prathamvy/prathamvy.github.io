@@ -4,8 +4,6 @@ date: 2026-03-10
 draft: false
 ---
 
-# Pratham Yashwante
-
 MS CS Student • UC San Diego
 
 [Google Scholar](https://scholar.google.com/citations?user=l7KzSbgAAAAJ&hl=en) •
@@ -13,7 +11,7 @@ MS CS Student • UC San Diego
 [Email](mailto:prathamyashwantepy@gmail.com) •
 [LinkedIn](https://linkedin.com/in/prathamyashwante)
 
-Hi, My name is **Pratham Yashwante** and I am a MS CS student at the **UCSD**. I work in the **Spatiotemporal ML Lab** and am advised by **Dr. Rose Yu**.
+Hi, My name is **Pratham** and I am a MS CS student at the **UCSD**. I work in the **Spatiotemporal ML Lab** and am advised by **Dr. Rose Yu**.
 
 ## Research
 
