@@ -6,6 +6,13 @@ draft: false
 
 Hi, I’m **Pratham Yashwante**.
 
-I am a Master's student in Computer Science at **UC San Diego**. My research interests include **multimodal AI**, **time series understanding**, **representation learning**, and **vision-language models**.
+I am an **MS in Computer Science student at UC San Diego** advised by **Prof. Rose Yu** in the **Spatiotemporal ML Lab**. My work focuses on **multimodal AI**, **time series understanding**, **representation learning**, and **vision-language models**.
 
-I work on problems involving grounding across **text, vision, and numeric time series**, with applications in captioning, alignment, and scientific reasoning.
+My recent research includes **time series captioning**, **multimodal alignment across text, vision, and time series**, **benchmark creation**, and **machine learning for scientific and health data**.
+
+## Research Interests
+
+- Multimodal AI
+- Time Series Understanding
+- Representation Learning
+- Vision-Language Models
