@@ -25,32 +25,25 @@ I am currently exploring how **time series data can be used as supervision to im
 ## Publications and Preprints
 
 - **Time Series, Vision, and Language: Exploring the Limits of Alignment in Contrastive Representation Spaces**  
-**Pratham Yashwante**, Rose Yu. 2026. Under review. 
-[arXiv](https://arxiv.org/abs/2602.19367v1)
+  **Pratham Yashwante**, Rose Yu. 2026. Under review. [arXiv](https://arxiv.org/abs/2602.19367v1)
 
 - **How Do Inpainting Artifacts Propagate to Language?**  
-**Pratham Yashwante**, Davit Abrahamyan, Shresth Grover, Sukruth Rao. 
-ACL Main, 2026. [arXiv](https://arxiv.org/abs/2602.20520)
+  **Pratham Yashwante**, Davit Abrahamyan, Shresth Grover, Sukruth Rao. ACL Main, 2026. [arXiv](https://arxiv.org/abs/2602.20520)
 
 - **CaTS-Bench: Can Language Models Describe Time Series?**  
-Luca Zhou*, **Pratham Yashwante***, Marshall Fisher, Alessio Sampieri, Zihao Zhou, Fabio Galasso, Rose Yu. 
-ACL Findings, 2026. [arXiv](https://arxiv.org/abs/2509.20823)
+  Luca Zhou*, **Pratham Yashwante***, Marshall Fisher, Alessio Sampieri, Zihao Zhou, Fabio Galasso, Rose Yu. ACL Findings, 2026. [arXiv](https://arxiv.org/abs/2509.20823)
 
 - **A Multi-Sensor, Multi-Movement Study of Motion Tape Strain Data for Low Back Pain Classification**  
-**Pratham Yashwante**, Sara P. Gombatto, Yasmín Velázquez, Elijah Wyckoff, Aarti Lalwani, Kevin Patrick, Kenneth Loh, Emilia Farcas, Rose Yu. 
-Under review. (arXiv coming soon), 2026.
+  **Pratham Yashwante**, Sara P. Gombatto, Yasmín Velázquez, Elijah Wyckoff, Aarti Lalwani, Kevin Patrick, Kenneth Loh, Emilia Farcas, Rose Yu. Under review. (arXiv coming soon), 2026.
 
 - **A Hybrid Deep Learning Model for Automated Cricket Commentary Generation**  
-**Pratham Yashwante**, Yash Patil, Bhavika Wani, Suvarna Chaure. 
-IEEE ICCMLA, 2024. [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10871604)
+  **Pratham Yashwante**, Yash Patil, Bhavika Wani, Suvarna Chaure. IEEE ICCMLA, 2024. [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10871604)
 
 - **A Hybrid Sentiment and Emotion Analysis Model for Marathi Text Using Horse Herd Optimization, Bidirectional RNN, and Affective Cognitive Computing**  
-Anindita Khade, **Pratham Yashwante**, Devesh Shetty.
-*Cognitive Computing and Cyber Physical Systems*, 2024. [Springer Nature](https://doi.org/10.1007/978-3-031-77081-4_2)
+  Anindita Khade, **Pratham Yashwante**, Devesh Shetty. *Cognitive Computing and Cyber Physical Systems*, 2024. [Springer Nature](https://doi.org/10.1007/978-3-031-77081-4_2)
 
 - **Comparative Analysis of Meta-heuristic Feature Selection and Feature Extraction Approaches for Enhanced Chronic Kidney Disease Prediction**  
-**Pratham Yashwante**, Yash Patil, Karan Nadar, Anindita Khade. 
-IEEE IATMSI, 2024. [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10502980)
+  **Pratham Yashwante**, Yash Patil, Karan Nadar, Anindita Khade. IEEE IATMSI, 2024. [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10502980)
 
 ## Education
 
