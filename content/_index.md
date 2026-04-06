@@ -27,14 +27,14 @@ Recently, I have worked on **multimodal time series benchmarks**, **contrastive 
 
 **How Do Inpainting Artifacts Propagate to Language?**  
 **Pratham Yashwante**, Davit Abrahamyan, Shresth Grover, Sukruth Rao.  
-ACL Main, 2026. 
+ACL Main, 2026.
 [arXiv](https://arxiv.org/abs/2602.20520)
 
 <br>
 
 **CaTS-Bench: Can Language Models Describe Time Series?**  
 Luca Zhou*, **Pratham Yashwante***, Marshall Fisher, Alessio Sampieri, Zihao Zhou, Fabio Galasso, Rose Yu.  
-ACL Findings, 2026. 
+ACL Findings, 2026.
 [arXiv](https://arxiv.org/abs/2509.20823)
 
 <br>
